@@ -1,5 +1,11 @@
 {
-  "version": "2",
+  "version": "3",
+  "redirects": {
+    "https://cdn.esm.sh/v86/ajv@8.11.0/dist/ajv.d.ts": "https://esm.sh/v86/ajv@8.11.0/dist/ajv.d.ts",
+    "https://cdn.esm.sh/v86/uri-js@4.4.1/dist/es5/uri.all.d.ts": "https://esm.sh/v86/uri-js@4.4.1/dist/es5/uri.all.d.ts",
+    "https://deno.land/x/is_url/mod.ts": "https://deno.land/x/is_url@v1.0.1/mod.ts",
+    "https://esm.sh/v86/@types/js-yaml@^4/index.d.ts": "https://esm.sh/v86/@types/js-yaml@4.0.9/index.d.ts"
+  },
   "remote": {
     "https://deno.land/std@0.129.0/_util/assert.ts": "e94f2eb37cebd7f199952e242c77654e43333c1ac4c5c700e929ea3aa5489f74",
     "https://deno.land/std@0.129.0/_util/os.ts": "49b92edea1e82ba295ec946de8ffd956ed123e2948d9bd1d3e901b04e4307617",
